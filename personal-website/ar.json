@@ -134,7 +134,7 @@
         "myProjects": "مشاريعي",
         "project": [
             {
-                "title": "مولد رمز QR"",
+                "title": "مولد رمز QR",
                 "image": "https://github.com/MohammedSaudAlsahli/qrcode-generator/blob/main/generated-image.png?raw=true",
                 "description": "مشروع مولد رمز QR عبر الإنترنت تم تطويره باستخدام Vite. يتيح هذا المشروع للمستخدمين إنشاء رموز QR بسرعة وسهولة لتشفير الروابط والمعلومات بأستخدام واجهة حديثة وسريعة.",
                 "tags": [

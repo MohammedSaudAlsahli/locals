@@ -144,30 +144,6 @@
                 ],
                 "githubUrl": "https://github.com/MohammedSaudAlsahli/qrcode-generator",
                 "liveUrl": "https://mohammedsaudalsahli.github.io/qrcode-generator/"
-            },
-            {
-                "title": "Project Two",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png",
-                "description": "Another awesome project that showcases my skills in backend and frontend development, with a focus on performance and user experience.",
-                "tags": [
-                    "Next.js",
-                    "Node.js",
-                    "PostgreSQL"
-                ],
-                "githubUrl": "#",
-                "liveUrl": null
-            },
-            {
-                "title": "Project Three",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-6.png",
-                "description": "An experimental project exploring the capabilities of AI and machine learning in a practical application. Built for scalability and fun.",
-                "tags": [
-                    "Python",
-                    "FastAPI",
-                    "AI"
-                ],
-                "githubUrl": "#",
-                "liveUrl": "#"
             }
         ]
     },

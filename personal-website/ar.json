@@ -134,16 +134,16 @@
         "myProjects": "مشاريعي",
         "project": [
             {
-                "title": "المشروع الأول",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png",
-                "description": "مشروع رائع بنيته باستخدام تقنيات حديثة لحل مشكلة واقعية. يتميز بواجهة أمامية متجاوبة وباك إند قوي.",
+                "title": "انشاء QRCode",
+                "image": "https://github.com/MohammedSaudAlsahli/qrcode-generator/blob/main/generated-image.png?raw=true",
+                "description": "مشروع مولد رمز QR عبر الإنترنت تم تطويره باستخدام Vite. يتيح هذا المشروع للمستخدمين إنشاء رموز QR بسرعة وسهولة لتشفير الروابط والمعلومات بأستخدام واجهة حديثة وسريعة.",
                 "tags": [
-                    "ريأكت",
-                    "تايب سكربت",
-                    "مانتين"
+                    "ReactJS",
+                    "TypeScript",
+                    "Chakra-UI"
                 ],
-                "githubUrl": "#",
-                "liveUrl": "#"
+                 "githubUrl": "https://github.com/MohammedSaudAlsahli/qrcode-generator",
+                "liveUrl": "https://mohammedsaudalsahli.github.io/qrcode-generator/"
             },
             {
                 "title": "المشروع الثاني",

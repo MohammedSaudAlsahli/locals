@@ -134,9 +134,9 @@
         "title": "Project title",
         "project": [
             {
-                "title": "Project One",
+                "title": "QRCode generator",
                 "image": "https://github.com/MohammedSaudAlsahli/qrcode-generator/blob/main/generated-image.png?raw=true",
-                "description": "A cool project I built using modern technologies to solve a real-world problem. It features a robust backend and a sleek, responsive frontend.",
+                "description": "An online QR code generator project built with Vite. This project allows users to quickly and easily create QR codes to encode links and information using a modern and fast interface.",
                 "tags": [
                     "React",
                     "TypeScript",

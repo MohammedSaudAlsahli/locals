@@ -134,7 +134,7 @@
         "myProjects": "مشاريعي",
         "project": [
             {
-                "title": "انشاء QRCode",
+                "title": "مولد رمز QR"",
                 "image": "https://github.com/MohammedSaudAlsahli/qrcode-generator/blob/main/generated-image.png?raw=true",
                 "description": "مشروع مولد رمز QR عبر الإنترنت تم تطويره باستخدام Vite. يتيح هذا المشروع للمستخدمين إنشاء رموز QR بسرعة وسهولة لتشفير الروابط والمعلومات بأستخدام واجهة حديثة وسريعة.",
                 "tags": [
@@ -144,30 +144,6 @@
                 ],
                  "githubUrl": "https://github.com/MohammedSaudAlsahli/qrcode-generator",
                 "liveUrl": "https://mohammedsaudalsahli.github.io/qrcode-generator/"
-            },
-            {
-                "title": "المشروع الثاني",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png",
-                "description": "مشروع مميز آخر يبرز مهاراتي في تطوير الواجهة الأمامية والخلفية مع تركيز على الأداء وتجربة المستخدم.",
-                "tags": [
-                    "نيكست",
-                    "نود",
-                    "بوستجريس"
-                ],
-                "githubUrl": "#",
-                "liveUrl": null
-            },
-            {
-                "title": "المشروع الثالث",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-6.png",
-                "description": "مشروع تجريبي يستكشف قدرات الذكاء الاصطناعي وتعلّم الآلة في تطبيق عملي. بُني للتوسع والمتعة.",
-                "tags": [
-                    "بايثون",
-                    "فاست إيه بي آي",
-                    "ذكاء اصطناعي"
-                ],
-                "githubUrl": "#",
-                "liveUrl": "#"
             }
         ]
     },

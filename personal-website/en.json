@@ -135,15 +135,15 @@
         "project": [
             {
                 "title": "Project One",
-                "image": "https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png",
+                "image": "https://github.com/MohammedSaudAlsahli/qrcode-generator/blob/main/generated-image.png?raw=true",
                 "description": "A cool project I built using modern technologies to solve a real-world problem. It features a robust backend and a sleek, responsive frontend.",
                 "tags": [
                     "React",
                     "TypeScript",
                     "Mantine"
                 ],
-                "githubUrl": "#",
-                "liveUrl": "#"
+                "githubUrl": "https://github.com/MohammedSaudAlsahli/qrcode-generator",
+                "liveUrl": "https://mohammedsaudalsahli.github.io/qrcode-generator/"
             },
             {
                 "title": "Project Two",

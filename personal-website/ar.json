@@ -172,7 +172,17 @@
                 "roles": [
                     {
                         "position": "مدير حسابات",
-                        "period": "فبراير 2025 - الآن"
+                        "period": "فبراير 2025 - سبتمبر 2025"
+                    }
+                ]
+            },{
+                "companyName": "الطرود الرقمية للخدمات اللوجستية",
+                "companyLogo": "http://diggipacks.com/wp-content/uploads/2024/01/diggipacks-logo.png",
+                "companyMainLogo": "http://diggipacks.com/wp-content/uploads/2024/01/diggipacks-logo.png",
+                "roles": [
+                    {
+                        "position": "مطور أعمال",
+                        "period": "اكتوبر 2025 - الآن"
                     }
                 ]
             }
